@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "web-blocker",
   "version": "1.0.0",
   "description": "Web sites blocker Chrome extension",
@@ -20,6 +20,14 @@
     }
   ],
   "web_accessible_resources": [
-    "css/style.css"
+    {
+      "resources": [
+        "css/style.css"
+      ],
+      "matches": [
+        "<all_urls>"
+      ],
+      "extension_ids": []
+    }
   ]
 }
