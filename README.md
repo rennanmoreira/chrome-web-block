@@ -1,11 +1,12 @@
-# site-blocker
-chrome extension to block sites
+# web-blocker
+chrome extension to block web sites
 
 ### installing locally:
 
-1. save folder
-2. go to `chrome://extensions`
-3. toggle `Developer mode`
+1. download project folder
+2. enter `chrome://extensions`
+3. set `Developer mode`
 4. click `Load unpacked`
-5. upload folder
-6. extension should now be enabled!
+5. select this folder
+
+Then you can use the extension locally.

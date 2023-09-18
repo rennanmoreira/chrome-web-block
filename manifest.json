@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "site-blocker",
+  "name": "web-blocker",
   "version": "1.0.0",
-  "description": "Site blocker Chrome extension",
+  "description": "Web sites blocker Chrome extension",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
